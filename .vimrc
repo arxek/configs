@@ -8,3 +8,5 @@ set relativenumber     " относительная нумерация стро�
 set mouse=a
 set nowrap
 set ruler 
+
+set clipboard+=unnamedplus
