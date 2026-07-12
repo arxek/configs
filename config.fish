@@ -6,6 +6,7 @@ oh-my-posh init fish --config /Users/arxek147/.cache/oh-my-posh/themes/powerleve
 
 alias f='fastfetch'
 alias c='clear'
+alias cb='cbonsai -i -l'
 
   # macos only
 alias bi='brew install'
