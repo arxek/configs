@@ -8,6 +8,7 @@ alias f='fastfetch'
 alias c='clear'
 alias cb='cbonsai -i -l'
 alias py='python3'
+
   # macos only
 alias bi='brew install'
 alias buu='brew update & brew upgrade'
