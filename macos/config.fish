@@ -12,6 +12,7 @@ if status is-interactive
     alias b='btop'
     # alias y='yazi'
     alias v='nvim'
+    alias lg='lazygit'
     alias q='exit'
 
     alias lss='eza --oneline --icons --long --sort=extension --time-style=long-iso --no-user --no-permissions'
