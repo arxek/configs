@@ -35,4 +35,29 @@ return {
     lazy = false,
     priority = 1000,
   },
+  {
+    "brenoprata10/nvim-highlight-colors",
+    lazy = false,
+    priority = 1000,
+  },
+  {
+    "AlexvZyl/nordic.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+  {
+    "rose-pine/neovim",
+    lazy = false,
+    priority = 1000,
+  },
+  {
+    "rebelot/kanagawa.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+  {
+    "nyoom-engineering/oxocarbon.nvim",
+    lazy = false,
+    priority = 1000,
+  },
 }
