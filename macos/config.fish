@@ -16,12 +16,14 @@ if status is-interactive
     alias v='nvim'
     alias lg='lazygit'
     alias q='exit'
+    alias torlink='npx torlnk'
 
     alias ls='eza --oneline --icons --long --sort=extension --time-style=long-iso --no-user --no-permissions'
     alias lsa='eza --oneline --icons --long --sort=extension --time-style=long-iso --no-user --no-permissions --all'
 
     # macos only
     alias bi='brew install'
+    alias bic='brew install --cask'
     alias buu='brew update & brew upgrade'
 
 end
