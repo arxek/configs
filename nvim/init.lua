@@ -6,5 +6,6 @@ vim.opt.softtabstop = 2 -- Number of spaces inserted when pressing Tab
 vim.opt.shiftwidth = 2 -- Size of an indent (e.g. using >> or <<)
 vim.opt.expandtab = true -- Convert tabs to spaces
 vim.g.python_recommended_style = 0 -- Python will have 2 spaces per tab
+vim.g.rust_recommended_style = 0 -- same for rust
 
 vim.cmd.colorscheme("nordic")
