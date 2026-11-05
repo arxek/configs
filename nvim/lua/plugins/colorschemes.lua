@@ -35,16 +35,19 @@ return {
     lazy = false,
     priority = 1000,
   },
+
   {
     "brenoprata10/nvim-highlight-colors",
     lazy = false,
     priority = 1000,
   },
+
   {
     "AlexvZyl/nordic.nvim",
     lazy = false,
     priority = 1000,
   },
+
   {
     "rose-pine/neovim",
     lazy = false,
@@ -55,8 +58,39 @@ return {
     lazy = false,
     priority = 1000,
   },
+
   {
     "nyoom-engineering/oxocarbon.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+
+  {
+    "tahayvr/matteblack.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+
+  {
+    "https://codeberg.org/navahas/sanzo.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+
+  {
+    "aktersnurra/no-clown-fiesta.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+
+  {
+    "oskarnurm/koda.nvim",
+    lazy = false,
+    priority = 1000,
+  },
+
+  {
+    "ThorstenRhau/token",
     lazy = false,
     priority = 1000,
   },
