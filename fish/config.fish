@@ -38,7 +38,7 @@ if status is-interactive
                 abbr -a nxru 'sudo nixos-rebuild switch --upgrade'
 
                 # --- Android ---
-            else if string match -q "*com.termux" "$PREFIX"
+            else if set -q ANDROID_ROOT; or test (uname -o) = Android
                 # fastfetch
                 #set ff_short "android-ff-short.jsonc"
                 #set ff_long "android-ff-long"
